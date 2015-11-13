@@ -2,7 +2,7 @@ module.exports = function(grunt) {
 
     // 1. All configuration goes here 
     grunt.initConfig({
-/*    responsive_images: {
+    responsive_images: {
            
             dev:{
             files:[{
@@ -18,7 +18,7 @@ module.exports = function(grunt) {
             }
         }
        }
-*/
+
 
     
     });
